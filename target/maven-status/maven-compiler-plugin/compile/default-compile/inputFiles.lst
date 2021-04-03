@@ -1,0 +1,11 @@
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/aop/LoggingAdvice.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/Main.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/AbstractLibrary.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/aop/orderaspects/SecurityAspect.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/aop/orderaspects/MyPointcuts.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/Magazine.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/Book.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/Conf.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/aop/orderaspects/LoggingAspect.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/joinpoint/Book.java
+/home/linux_alex/IdeaProjects/Aop/src/main/java/ja/joinpoint/Magazine.java

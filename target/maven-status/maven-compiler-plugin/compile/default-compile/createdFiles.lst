@@ -1,0 +1,11 @@
+ja/Book.class
+ja/aop/orderaspects/LoggingAspect.class
+ja/joinpoint/Magazine.class
+ja/Main.class
+ja/Conf.class
+ja/joinpoint/Book.class
+ja/AbstractLibrary.class
+ja/Magazine.class
+ja/aop/orderaspects/MyPointcuts.class
+ja/aop/LoggingAdvice.class
+ja/aop/orderaspects/SecurityAspect.class
